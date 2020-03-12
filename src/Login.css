@@ -1,0 +1,29 @@
+body {
+  background: #eee !important;
+}
+
+.App {
+  margin-top: 80px;
+}
+
+.form {
+  max-width: 380px;
+  padding: 15px 35px 45px;
+  margin: 0 auto;
+  background-color: #fff;
+  border: 1px solid rgba(0, 0, 0, 0.1);
+}
+
+.form-input {
+  margin-top: 15px;
+  width: 90%;
+  font-size: 16px;
+  padding: 10px;
+}
+
+.Login {
+  margin-top: 20px;
+  width: 95%;
+  padding: 10px;
+  background-color: rgb(60, 179, 113);
+}

@@ -1,0 +1,32 @@
+.Container {
+  margin: 100px 0 0 400px;
+  text-align: center;
+}
+table {
+  border-collapse: collapse;
+  width: 40%;
+}
+
+table,
+th,
+td {
+  border: 1px solid black;
+  padding: 10px;
+}
+
+th {
+  background-color: black;
+  color: white;
+}
+.AddData {
+  margin: 20px 0 0 200px;
+  width: 150px;
+  padding: 10px;
+  background-color: rgb(60, 179, 113);
+}
+.Logout {
+  margin: 20px 0 0 500px;
+  width: 150px;
+  padding: 10px;
+  background-color: rgb(60, 179, 113);
+}
